@@ -19,18 +19,16 @@
 
 # 使用方法
 ```python
-from user_agent import UserAgent
+from fake_useragent import UserAgent
 # 获取所有浏览器的随机请求头
-ua = UserAgent()
-ua.rget
+ua = UserAgent().rget
 
 # 获取chrome随机请求头
-ua = UserAgent("chrome")
-ua.rget
+ua = UserAgent("chrome").rget
 ```
 
 # 测试用例
-```
+```python
 import requests
 from fake_useragent import UserAgent
 
