@@ -2,18 +2,18 @@
 # @Author: Mehaei
 # @Date:   2022-06-14 11:49:05
 # @Last Modified by:   Mehaei
-# @Last Modified time: 2022-06-21 11:30:18
+# @Last Modified time: 2022-06-21 11:50:33
 from distutils.core import setup
 from setuptools import find_packages
 
 
-with open("README.rst", "r") as f:
+with open("README.md", "r") as f:
     long_description = f.read()
 
 
 setup(
     name='local_fake_useragent',
-    version='2.0.0',
+    version='2.0.1',
     description='Random request headers for local versions of browsers',
     long_description=long_description,
     long_description_content_type='text/markdown',
