@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Author: Mehaei
+# @Date:   2022-06-20 18:57:38
+# @Last Modified by:   Mehaei
+# @Last Modified time: 2022-06-21 10:43:33
+
 ua_list = [
       "Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)",
       "Mozilla/5.0 (compatible; U; ABrowse 0.6;  Syllable) AppleWebKit/420+ (KHTML, like Gecko)",

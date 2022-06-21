@@ -2,7 +2,7 @@
 # @Author: Mehaei
 # @Date:   2019-09-28 12:38:58
 # @Last Modified by:   Mehaei
-# @Last Modified time: 2019-09-28 12:39:08
+# @Last Modified time: 2022-06-21 10:43:20
 
 ua_list = {
     "chrome": [
